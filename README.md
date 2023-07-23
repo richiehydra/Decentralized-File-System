@@ -16,6 +16,6 @@ This was Built using:Ethereum Smart Contracts(Solidity),React.js,IPFS(File or Im
 # Metamask Wallet
 <img src="https://github.com/richiehydra/Decentralized-File-System/blob/main/images/Screenshot%202023-07-23%20024334.png" width="100%"></img> 
 
-# Images Getting Stored on Blockchain and Rendering to only Authorized Users
+# Images Rendering
 <img src="https://github.com/richiehydra/Decentralized-File-System/blob/main/images/Screenshot%202023-07-23%20024747.png" width="100%"></img> 
 

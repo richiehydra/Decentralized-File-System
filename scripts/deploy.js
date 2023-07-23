@@ -7,8 +7,8 @@
 const hre = require("hardhat");
 
 async function main() {
-  const Drive = await hre.ethers.getContractFactory("Drive");
-  const contract = await Drive.deploy();
+  const drive = await hre.ethers.getContractFactory("Drive");
+  const contract = await drive.deploy();
   await contract.deployed();
   console.log(`The Contract Address is ${contract.address}`);
 }

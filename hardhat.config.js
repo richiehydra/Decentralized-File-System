@@ -5,10 +5,10 @@ module.exports = {
   solidity: "0.8.17",
   networks:
   {
-    ganache:
+    goerli:
     {
-      url:"http://127.0.0.1:7545",
-      account:["4225d5733f9c906cda8691b98b23ec0bc6d72df7ccc2129880a0c915f875306f"]
+      url:"https://eth-goerli.g.alchemy.com/v2/EvCOjfXBeb07BFM6jxozCsiM_ZBPB3iX",
+      accounts:["8052ef8ba1b55124aaa6a41dbedf40c4f767cadeeedb4facc0be3b8a697c5061"]
     }
   }
 };

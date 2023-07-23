@@ -9,7 +9,7 @@ function App() {
   const[modalOpen,setmodalOpen]=useState(null);
   const [address, setAddress] = useState(" ");
   const [State, setState] = useState({ provider: null, signer: null, contract: null })
-  const contractAddress = "0x8b72d2CB226fE17787Ba276E8841B2365ebf90ae";
+  const contractAddress = "0x89C780564345c640214994A2Ac3C376036732C75";
   useEffect(() => {
     const connectWallet = async () => {
       try {
